@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, Welcome to my Bio! </h1>
 <h3 align="center">A passionate human finding interest in building and developing stuffs.</h3>
 
-- 🔭 I’m currently working on **Various Machine Learning Models**
+- 🔭 I’m currently working on **Various Machine Learning Models** which are not set to public view.
 
 - 🌱 I’m currently learning **TensorFlow, Pytorch and  SciPy**
 
