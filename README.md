@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, Welcome to my Bio! </h1>
 <h3 align="center">A passionate human finding interest in building and developing stuffs.</h3>
 
-<img alt="profile-gif" width=100% align="left" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=w4r-10rd&label=Profile%20views&color=0e75b6&style=flat" alt="w4r-10rd" /> </p>
-
+<img alt="profile-gif" width=100% align="left" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=w4r-10rd&theme=onedark)](https://github.com/w4r-10rd/github-profile-trophy)
 
