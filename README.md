@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, Welcome to my Bio! </h1>
 <h3 align="center">A passionate human finding interest in building and developing stuffs.</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=w4r-10rd&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=w4r-10rd&theme=onedark)](https://github.com/w4r-10rd/github-profile-trophy)
 
 - 🔭 I’m currently working on **Various Machine Learning Models** which are not set to public view.
 
